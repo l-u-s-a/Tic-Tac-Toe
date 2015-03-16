@@ -1,0 +1,9 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Solution1\SimpleGame\bin\Debug\SimpleGame.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Solution1\SimpleGame\bin\Debug\SimpleGame.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Solution1\SimpleGame\bin\Debug\SimpleGame.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Solution1\SimpleGame\obj\Debug\SimpleGame.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Solution1\SimpleGame\obj\Debug\SimpleGame.Form1.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\Solution1\SimpleGame\obj\Debug\SimpleGame.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\Solution1\SimpleGame\obj\Debug\SimpleGame.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Solution1\SimpleGame\obj\Debug\SimpleGame.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Solution1\SimpleGame\obj\Debug\SimpleGame.pdb
